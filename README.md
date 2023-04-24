@@ -1,13 +1,13 @@
-# INFORMACIÓN SOBRE WRIKE, COMPARACIÓN CON OTRAS HERRAMIENTAS Y EJEMLOS
+## INFORMACIÓN SOBRE WRIKE, COMPARACIÓN CON OTRAS HERRAMIENTAS Y EJEMLOS
 
-## 1. [¿Qué son las herramientas CI/DC?.](#id1)
-## 2. [¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?](#id2)
-## 3. [¿Qué ofrece?](#id3)
-## 4. [Plan de precios](#id4)
-## 5. [Ejemplo de integración co repositorios de código](#id5)
-## 6. [Ejemplo de documentación de proyectos](#id6)
-## 7. [Otras herramientas con las que se integra](#id7)
-## 8. [Comparativa con otras herramientas](#id8)
+### 1. [¿Qué son las herramientas CI/DC?.](#id1)
+### 2. [¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?](#id2)
+### 3. [¿Qué ofrece?](#id3)
+### 4. [Plan de precios](#id4)
+### 5. [Ejemplo de integración co repositorios de código](#id5)
+### 6. [Ejemplo de documentación de proyectos](#id6)
+### 7. [Otras herramientas con las que se integra](#id7)
+### 8. [Comparativa con otras herramientas](#id8)
 ## 9. [¿Por qué escoger la herramienta frente a otras?](#id9)
 
 <a name="id1"></a>
@@ -19,7 +19,7 @@
    - Por último, algo a mencionar es que las herramientas CI/CD normalmente vienen preparadas para poder ser integradas con otras herramientas externas que pueden ayudar tanto a los desarrolladores de forma individual como al conjunto del equipo de desarrollo.
 
 <a name="id2"></a>
-2.
+2. ¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?
 
 <a name="id3"></a>
 3.
