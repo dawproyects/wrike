@@ -1,5 +1,16 @@
 # INFORMACIÓN SOBRE WRIKE, COMPARACIÓN CON OTRAS HERRAMIENTAS Y EJEMLOS
 
+## 1. [¿Qué son las herramientas CI/DC?.](#id1)
+## 2. [¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?](#id2)
+## 3. [¿Qué ofrece?](#id3)
+## 4. [Plan de precios](#id4)
+## 5. [Ejemplo de integración co repositorios de código](#id5)
+## 6. [Ejemplo de documentación de proyectos](#id6)
+## 7. [Otras herramientas con las que se integra](#id7)
+## 8. [Comparativa con otras herramientas](#id8)
+## 9. [¿Por qué escoger la herramienta frente a otras?](#id9)
+
+<a name="id1"></a>
 1. ¿Qué son las herramientas CI/CD?:
 
    - Las herramientas CI/CD, que sin abreviar hacen referencia a "Integración Continua" y "Entrega Continua", son un concepto aplicado a ciertas herramientas que hacen referencia a la capacidad de mantener ordenada u organizada una empresa o un equipo de trabajo. Con estas herramientas CI/CD conseguimos ampliar y facilitar el trabajo a los equipos de desarrollo sobre todo con los aspectos relacionados con la inegración de código.
@@ -7,10 +18,13 @@
    - Respecto a la distribución continua, este es un concepto que va de la mano al anterior ya que ambos dependen del otro. La distribución continia es la capacidad de tener un código testeado y sólido (previamente mezclado por los desarrolladores) que se pueda integrar a la aplicación real en cualquier momento. Además es un concepto muy ligado a las metodologías ágiles que permiten, en cortos plazos de tiempo, mostrar al cliente los avances en el desarrollo.
    - Por último, algo a mencionar es que las herramientas CI/CD normalmente vienen preparadas para poder ser integradas con otras herramientas externas que pueden ayudar tanto a los desarrolladores de forma individual como al conjunto del equipo de desarrollo.
 
+<a name="id2"></a>
 2.
 
+<a name="id3"></a>
 3.
 
+<a name="id4"></a>
 4. Plan de precios:
 
    - En cuanto a los precios, un punto a favor para la aplicación es que ofrece varias ofertas gratuitas para probar la aplicación, a pesar de ser con funcionañidades reducidas. Vamos a ver qué precios nos ofrece:
@@ -48,4 +62,17 @@
 
      - **Otros planes:** Los planes anteriores son los que se ofrecen de base para la herramienta, pero no son los únicos. Wrike nos ofrece los planes enterprise y pinnacle, que son planes más específicos y que cuentan con soporte de los propios desarrolladores. Por esa razón, hay que contactar con el soporte de Wrike para acordar un precio. Estos planes tienen una prueba temporal gratuita para testear lo necesario en caso de querer comprarlos. De forma similar a lo anterior, los planes incluyen bastantes más cosas relacionadas con la gestión empresarial de los grupos de trabajo. Algunas cosas como roles, permisos, contraseñas, acceso a proyectos... se añaden, junto a otras funcionalidades más específicas como revisiones de HTML5 o auditorías.
 
-5. Respecto a las integraciones, Wrike permite multitud de aplicaciones a las que integrarse
+<a name="id5"></a>
+5. Ejemplo de integración co repositorios de código:
+
+<a name="id6"></a>
+6. Ejemplo de documentación de proyectos:
+
+<a name="id7"></a>
+7. Otras herramientas con las que se integra:
+
+<a name="id8"></a>
+8. Comparativa con otras herramientas:
+
+<a name="id9"></a>
+9. ¿Por qué escoger la herramienta frente a otras?
