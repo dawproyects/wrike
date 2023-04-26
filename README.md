@@ -68,7 +68,9 @@
 
   - **Otros planes:** Los planes anteriores son los que se ofrecen de base para la herramienta, pero no son los únicos. Wrike nos ofrece los planes enterprise y pinnacle, que son planes más específicos y que cuentan con soporte de los propios desarrolladores. Por esa razón, hay que contactar con el soporte de Wrike para acordar un precio. Estos planes tienen una prueba temporal gratuita para testear lo necesario en caso de querer comprarlos. De forma similar a lo anterior, los planes incluyen bastantes más cosas relacionadas con la gestión empresarial de los grupos de trabajo. Algunas cosas como roles, permisos, contraseñas, acceso a proyectos... se añaden, junto a otras funcionalidades más específicas como revisiones de HTML5 o auditorías.
 
-<a name="id5"></a> 5. Ejemplo de integración co repositorios de código: - Esta aplicación tiene integtración
+<a name="id5"></a> 5. Ejemplo de integración co repositorios de código:
+
+- Wrike es una herramienta de gestión de tareas y proyectos aplicable a muchas aplicaciones, pero no se puede integrar directamente con código. Wrike se orienta más a la parte de tareas, asignación y representación de las mismas. Comparando con algo con lo que estamos familiarizados como es github, es una especie de tabla de proyecto e issues junto y más desarrollado con un sistema de permisos y límites y muchas más opciones. A pesar de no tener integración
 
 <a name="id6"></a> 6. Ejemplo de documentación de proyectos:
 
