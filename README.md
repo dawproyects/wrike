@@ -70,7 +70,7 @@
 
 <a name="id5"></a> 5. Ejemplo de integración co repositorios de código:
 
-- Wrike es una herramienta de gestión de tareas y proyectos aplicable a muchas aplicaciones, pero no se puede integrar directamente con código. Wrike se orienta más a la parte de tareas, asignación y representación de las mismas. Comparando con algo con lo que estamos familiarizados como es github, es una especie de tabla de proyecto e issues junto y más desarrollado con un sistema de permisos y límites y muchas más opciones. A pesar de no tener integración
+- Wrike es una herramienta de gestión de tareas y proyectos aplicable a muchas aplicaciones, pero no se puede integrar directamente con código. Wrike se orienta más a la parte de tareas, asignación y representación de las mismas. Comparando con algo con lo que estamos familiarizados como es github, es una especie de tabla de proyecto e issues junto y más desarrollado con un sistema de permisos y límites y muchas más opciones. A pesar de no tener integración con código de forma directa si que podemos integrar Wrike con Github para que se encargue de alojar el código y que sea Wrike la herramienta encargada de llevar el sistema de tareas. 
 
 <a name="id6"></a> 6. Ejemplo de documentación de proyectos:
 
