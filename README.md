@@ -72,7 +72,18 @@
 
 - Wrike es una herramienta de gestión de tareas y proyectos aplicable a muchas aplicaciones, pero no se puede integrar directamente con código. Wrike se orienta más a la parte de tareas, asignación y representación de las mismas. Comparando con algo con lo que estamos familiarizados como es github, es una especie de tabla de proyecto e issues junto y más desarrollado con un sistema de permisos y límites y muchas más opciones. A pesar de no tener integración con código de forma directa si que podemos integrar Wrike con Github para que se encargue de alojar el código y que sea Wrike la herramienta encargada de llevar el sistema de tareas. Como ejemplo, vamos a representar nuestras últimas "issues" de github sobre el proyecto que estamos llevando a cabo.  
   ![](img/Captura%20de%20pantalla_2023-04-28_15-12-07.png)
-- Esta es la tabla por defecto que nos ofrece Wrike en la version gratuita. Es una tabla que nos incluye apartados iguales a las issues de github, los cuales son la asignación de tareas, el estado en el que están las mismas, las fechas...Otro aspecto muy interesante que podemos controlar es el progreso, a través de una barra de porcentaje y la importancia de la tarea para luego poder ordenar por ese campo. Por último, en esta tabla por defecto de Wrike tenemos un identificador de la tarea. En las versiones de pago tenemos muchas más funcionalidades que pueden resultar interesantes para empresas más grandes o con más tareas a organizar. Ahora, vamos a ver la representación en tipo lista y la tabla scrum.
+- Esta es la tabla por defecto que nos ofrece Wrike en la version gratuita. Es una tabla que nos incluye apartados iguales a las issues de github, los cuales son la asignación de tareas, el estado en el que están las mismas, las fechas...Otro aspecto muy interesante que podemos controlar es el progreso, a través de una barra de porcentaje y la importancia de la tarea para luego poder ordenar por ese campo. Por último, en esta tabla por defecto de Wrike tenemos un identificador de la tarea. En las versiones de pago tenemos muchas más funcionalidades que pueden resultar interesantes para empresas más grandes o con más tareas a organizar.
+
+![](img/lista.png)
+
+- Este es el formato de presentación de las tareas en formato lista. Es una forma de presentación más limpia y libre de información. Está diseñada para tener una visión general de las tareas y el estado en el que se encuentran. Aplicandolo a nuestro caso, con el desarrollo de software, es un formato ideal para que los programadores vean las tareas a realizar de forma esquemática y libre de información que puede llegar a ser irrelevante para sus puestos de trabajo.
+
+![](img/scrum.png)
+
+- Este es el formato que ya conocemos y que estamos aplicando en nuestros proyectos y es la tabla tipo Scrum. Vemos la división de varias columnas con las tareas nuevas, en curso, completadas y el resto de columnas apareceran en función de otros estados de las tareas. Para ejemplificarlo hemos puesto dos tareas en espera y un cancelada.
+
+- Estos tres tipos de representación de las tareas son los que ofrece Wrike en su versión gratuita. Es más, como podemos ver en la barra que queda por encima podemos incluso navegar por encima de los tipos de representación de una forma rápida y sencilla. En las versiones
+  de pago tenemos los mismos tipos pero con mucha más personalización, lo cual brinda la posibilidad de crear nuevos tipos de representación utilizando la base de las existentes.
 
 <a name="id6"></a> 6. Ejemplo de documentación de proyectos:
 
