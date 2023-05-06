@@ -8,7 +8,7 @@
 
 ## 4. [Plan de precios](#id4)
 
-## 5. [Ejemplo de integración co repositorios de código](#id5)
+## 5. [Ejemplo de integración con repositorios de código](#id5)
 
 ## 6. [Ejemplo de documentación de proyectos](#id6)
 
@@ -29,7 +29,7 @@
 
 <a name="id2"></a> 2. ¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?
 
-<a name="id3"></a> 3.
+<a name="id3"></a> 3. ¿Qué ofrece?
 
 <a name="id4"></a> 4. Plan de precios:
 
@@ -74,6 +74,43 @@
 
 <a name="id7"></a> 7. Otras herramientas con las que se integra:
 
+Wrike se integra con una variedad de herramientas y aplicaciones, lo que permite a los usuarios conectar su flujo de trabajo y automatizar tareas.
+
+Algunas de las integraciones más populares de Wrike:
+
+1. Integración con Microsoft Teams: Permite a los usuarios crear, editar y asignar tareas directamente desde Microsoft Teams.
+
+2. Integración con Slack: Permite a los usuarios crear, editar y asignar tareas directamente desde Slack.
+
+3. Integración con Zapier: Permite a los usuarios conectar Wrike con más de 1,500 aplicaciones diferentes, lo que permite la automatización de tareas.
+
+4. Integración con Google Drive: Permite a los usuarios adjuntar archivos de Google Drive a las tareas de Wrike.
+
+5. Integración con Salesforce: Permite a los usuarios ver y actualizar los datos de Salesforce desde Wrike.
+
+6. Integración con Adobe Creative Cloud: Permite a los usuarios crear y asignar tareas en Wrike directamente desde Adobe Creative Cloud.
+
+7. Integración con Jira: Permite a los usuarios sincronizar tareas de Jira con Wrike.
+
+Wrike también se integra con muchas otras herramientas y aplicaciones populares, como Trello, Asana, HubSpot, entre otras.
+
 <a name="id8"></a> 8. Comparativa con otras herramientas:
 
+| Herramienta | Control de Versiones | Control de Versiones de Código | Gestión de Proyectos | Integraciones | Aplicación de Escritorio | Aplicación Móvil | Características adicionales |
+|---|---|---|---|---|---|---|---|
+| GitLab | Git | Sí | Sí | Slack, Jenkins, Docker | Sí | Sí | Funcionalidades avanzadas de CI/CD, revisión de código y seguimiento de problemas |
+| Redmine | Integración con Git y Subversion | Sí | Sí | GitHub, Subversion | No | No | Personalización avanzada de proyectos y plantillas de seguimiento, seguimiento de problemas y gestión de documentos |
+| Bitbucket | Git y Mercurial | Sí | Sí | Jira, Bamboo, Trello | Sí | Sí | Funcionalidades avanzadas de CI/CD, revisión de código y seguimiento de problemas |
+| Fogbugz | Integración con Git | Sí | No | GitHub, Trello | No | Sí | Funciones avanzadas de seguimiento de errores y corrección de errores, seguimiento de problemas y gestión de proyectos |
+| Jira | Integración con Git, Mercurial y Subversion | Sí | Sí | Confluence, Bitbucket, GitHub | Sí | Sí | Gestión de proyectos Agile y Scrum, seguimiento de problemas y colaboración en equipo |
+| Codeplane | Git y Subversion | Sí | Sí | GitHub, Bitbucket | No | No | Seguimiento básico de proyectos y tareas, revisión de código y gestión de problemas |
+| Beanstalk | Git y Subversion | Sí | Sí | Jira, Basecamp, Slack | Sí | No | Funcionalidades avanzadas de CI/CD, revisión de código y seguimiento de problemas |
+| Wrike | No tiene una función específica de control de versiones, pero se integra con herramientas de control de versiones como Git | Sí | Sí | Salesforce, HubSpot, Adobe Creative Cloud | Sí | Sí | Seguimiento de tiempo, análisis de carga de trabajo, planificación de recursos, gestión de proyectos y colaboración en equipo |
+
 <a name="id9"></a> 9. ¿Por qué escoger la herramienta frente a otras?
+
+Wrike es una buena opción si buscas una herramienta de gestión de proyectos que tenga una interfaz de usuario fácil de usar y una amplia gama de funciones. Wrike se enfoca en la colaboración y la planificación de proyectos en equipo, y tiene una variedad de características adicionales como seguimiento de tiempo, análisis de carga de trabajo, planificación de recursos y automatización de procesos.
+
+Además, Wrike también se integra con una amplia gama de herramientas y aplicaciones, incluyendo Salesforce, HubSpot y Adobe Creative Cloud, lo que lo hace muy útil para equipos que trabajan con diferentes aplicaciones.
+
+Sin embargo, si lo que necesitas es una herramienta específica de control de versiones para código, Wrike puede no ser la opción más adecuada. En su lugar, puede ser mejor optar por una herramienta especializada en control de versiones, como GitLab o Bitbucket.
