@@ -37,6 +37,8 @@
 
 ## 3. ¿Qué ofrece?
 
+<img src="img/wrike.jpg">
+
 Wrike es una plataforma de gestión de proyectos y colaboración en equipo en línea. Es una herramienta que permite a los usuarios planificar, realizar un seguimiento y gestionar proyectos y tareas, asignar responsabilidades, colaborar en tiempo real, comunicarse y compartir archivos en un solo lugar.
 
 Ofrece características como un calendario de proyectos, seguimiento de tiempo, gestión de tareas, diagramas de Gantt, integraciones con otras herramientas.
