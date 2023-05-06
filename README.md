@@ -49,6 +49,8 @@ Es utilizado por una amplia variedad de organizaciones y equipos, desde pequeña
 
 ## 4. Plan de precios
 
+<img src="img/precios.jpg">
+
 - En cuanto a los precios, un punto a favor para la aplicación es que ofrece varias ofertas gratuitas para probar la aplicación, a pesar de ser con funcionañidades reducidas. Vamos a ver qué precios nos ofrece:
 
   - **Plan gratuito:** Este es el primer plan que podemos ver en Wrike. Es un plan totalmente gratuito que ofrece a los usuarios un uso con ciertas limitaciones para comenzar a familiarizarse con la aplicación. Es cierto que las posibilidades de uso son muy reducidas, pero contamos con los básicos para comenzar y ver si vale la pena pagar por los planes superiores. Algunas de las cosas que nos ofrece son:
