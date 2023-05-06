@@ -1,6 +1,6 @@
-<div align="justify">
-
 ## INFORMACIÓN SOBRE WRIKE, COMPARACIÓN CON OTRAS HERRAMIENTAS Y EJEMLOS
+
+<div align="justify">
 
 ## 1. [¿Qué son las herramientas CI/DC?](#id1)
 
