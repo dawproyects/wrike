@@ -37,6 +37,14 @@
 
 ## 3. ¿Qué ofrece?
 
+Wrike es una plataforma de gestión de proyectos y colaboración en equipo en línea. Es una herramienta que permite a los usuarios planificar, realizar un seguimiento y gestionar proyectos y tareas, asignar responsabilidades, colaborar en tiempo real, comunicarse y compartir archivos en un solo lugar.
+
+Ofrece características como un calendario de proyectos, seguimiento de tiempo, gestión de tareas, diagramas de Gantt, integraciones con otras herramientas.
+
+La plataforma está diseñada para ayudar a los equipos a mejorar la eficiencia y la productividad en sus proyectos.
+
+Es utilizado por una amplia variedad de organizaciones y equipos, desde pequeñas empresas hasta grandes empresas, y se utiliza en una variedad de industrias, como la tecnología, la educación, la atención médica, la publicidad y el marketing, entre otras.
+
 <a name="id4"></a>
 
 ## 4. Plan de precios
@@ -78,13 +86,13 @@
 
 <a name="id5"></a>
 
-## 5. Ejemplo de integración co repositorios de código:
+## 5. Ejemplo de integración con repositorios de código
 
-- Esta aplicación tiene integtración
+- Esta aplicación no es una herramienta de control de versiones de código como Git, SVN u otras herramientas similares.
 
 <a name="id6"></a>
 
-## 6. Ejemplo de documentación de proyectos:
+## 6. Ejemplo de documentación de proyectos
 
 <a name="id7"></a>
 
