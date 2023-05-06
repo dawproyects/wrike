@@ -2,9 +2,9 @@
 
 <div align="justify">
 
-## 1. [¿Qué son las herramientas CI/DC?](#id1)
+## 1. [¿Qué son las herramientas CI/CD?](#id1)
 
-## 2. [¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?](#id2)
+## 2. [¿Qué es, y dentro de que grupo de las herramientas CI/CD esta?](#id2)
 
 ## 3. [¿Qué ofrece?](#id3)
 
@@ -31,7 +31,7 @@
 
 <a name="id2"></a>
 
-## 2. ¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?
+## 2. ¿Qué es, y dentro de que grupo de las herramientas CI/CD esta?
 
 <a name="id3"></a>
 
