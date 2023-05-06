@@ -27,11 +27,17 @@
    - Respecto a la distribución continua, este es un concepto que va de la mano al anterior ya que ambos dependen del otro. La distribución continia es la capacidad de tener un código testeado y sólido (previamente mezclado por los desarrolladores) que se pueda integrar a la aplicación real en cualquier momento. Además es un concepto muy ligado a las metodologías ágiles que permiten, en cortos plazos de tiempo, mostrar al cliente los avances en el desarrollo.
    - Por último, algo a mencionar es que las herramientas CI/CD normalmente vienen preparadas para poder ser integradas con otras herramientas externas que pueden ayudar tanto a los desarrolladores de forma individual como al conjunto del equipo de desarrollo.
 
-<a name="id2"></a> 2. ¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?
+<a name="id2"></a>
 
-<a name="id3"></a> 3. ¿Qué ofrece?
+2. ¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?
 
-<a name="id4"></a> 4. Plan de precios:
+<a name="id3"></a>
+
+3. ¿Qué ofrece?
+
+<a name="id4"></a>
+
+4. Plan de precios:
 
 - En cuanto a los precios, un punto a favor para la aplicación es que ofrece varias ofertas gratuitas para probar la aplicación, a pesar de ser con funcionañidades reducidas. Vamos a ver qué precios nos ofrece:
 
@@ -68,11 +74,17 @@
 
   - **Otros planes:** Los planes anteriores son los que se ofrecen de base para la herramienta, pero no son los únicos. Wrike nos ofrece los planes enterprise y pinnacle, que son planes más específicos y que cuentan con soporte de los propios desarrolladores. Por esa razón, hay que contactar con el soporte de Wrike para acordar un precio. Estos planes tienen una prueba temporal gratuita para testear lo necesario en caso de querer comprarlos. De forma similar a lo anterior, los planes incluyen bastantes más cosas relacionadas con la gestión empresarial de los grupos de trabajo. Algunas cosas como roles, permisos, contraseñas, acceso a proyectos... se añaden, junto a otras funcionalidades más específicas como revisiones de HTML5 o auditorías.
 
-<a name="id5"></a> 5. Ejemplo de integración co repositorios de código: - Esta aplicación tiene integtración
+<a name="id5"></a>
 
-<a name="id6"></a> 6. Ejemplo de documentación de proyectos:
+5. Ejemplo de integración co repositorios de código: - Esta aplicación tiene integtración
 
-<a name="id7"></a> 7. Otras herramientas con las que se integra:
+<a name="id6"></a>
+
+6. Ejemplo de documentación de proyectos:
+
+<a name="id7"></a>
+
+7. Otras herramientas con las que se integra:
 
 Wrike se integra con una variedad de herramientas y aplicaciones, lo que permite a los usuarios conectar su flujo de trabajo y automatizar tareas.
 
@@ -94,7 +106,9 @@ Algunas de las integraciones más populares de Wrike:
 
 Wrike también se integra con muchas otras herramientas y aplicaciones populares, como Trello, Asana, HubSpot, entre otras.
 
-<a name="id8"></a> 8. Comparativa con otras herramientas:
+<a name="id8"></a>
+
+8. Comparativa con otras herramientas:
 
 | Herramienta | Control de Versiones | Control de Versiones de Código | Gestión de Proyectos | Integraciones | Aplicación de Escritorio | Aplicación Móvil | Características adicionales |
 |---|---|---|---|---|---|---|---|
@@ -107,7 +121,9 @@ Wrike también se integra con muchas otras herramientas y aplicaciones populares
 | Beanstalk | Git y Subversion | Sí | Sí | Jira, Basecamp, Slack | Sí | No | Funcionalidades avanzadas de CI/CD, revisión de código y seguimiento de problemas |
 | Wrike | No tiene una función específica de control de versiones, pero se integra con herramientas de control de versiones como Git | Sí | Sí | Salesforce, HubSpot, Adobe Creative Cloud | Sí | Sí | Seguimiento de tiempo, análisis de carga de trabajo, planificación de recursos, gestión de proyectos y colaboración en equipo |
 
-<a name="id9"></a> 9. ¿Por qué escoger la herramienta frente a otras?
+<a name="id9"></a>
+
+9. ¿Por qué escoger la herramienta frente a otras?
 
 Wrike es una buena opción si buscas una herramienta de gestión de proyectos que tenga una interfaz de usuario fácil de usar y una amplia gama de funciones. Wrike se enfoca en la colaboración y la planificación de proyectos en equipo, y tiene una variedad de características adicionales como seguimiento de tiempo, análisis de carga de trabajo, planificación de recursos y automatización de procesos.
 
