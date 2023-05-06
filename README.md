@@ -1,6 +1,6 @@
 ## INFORMACIÓN SOBRE WRIKE, COMPARACIÓN CON OTRAS HERRAMIENTAS Y EJEMLOS
 
-## 1. [¿Qué son las herramientas CI/DC?.](#id1)
+## 1. [¿Qué son las herramientas CI/DC?](#id1)
 
 ## 2. [¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?](#id2)
 
@@ -20,7 +20,7 @@
 
 <a name="id1"></a>
 
-## 1. ¿Qué son las herramientas CI/CD?:
+## 1. ¿Qué son las herramientas CI/CD?
 
    - Las herramientas CI/CD, que sin abreviar hacen referencia a "Integración Continua" y "Entrega Continua", son un concepto aplicado a ciertas herramientas que hacen referencia a la capacidad de mantener ordenada u organizada una empresa o un equipo de trabajo. Con estas herramientas CI/CD conseguimos ampliar y facilitar el trabajo a los equipos de desarrollo sobre todo con los aspectos relacionados con la inegración de código.
    - El objetivo principal de estas herramintas es el adaptar las herramientas a los desarrolladores, permitiendoles trabajar al mismo tiempo en diferentes funcionalidades de una aplicación y que no suponga un problema "mezclar" todo el código. El concepto de integración continua supone continuas fusiones del código de los desarrolladores (el cual debe haber pasado antes unos test previos para que no se mezclen con errores). Algunas de las funciones que las herramientas ofrecen es el hecho de solucionar de forma ágil los fallos o conflictos cuando se sube código nuevo.
@@ -29,15 +29,15 @@
 
 <a name="id2"></a>
 
-2. ¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?
+## 2. ¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?
 
 <a name="id3"></a>
 
-3. ¿Qué ofrece?
+## 3. ¿Qué ofrece?
 
 <a name="id4"></a>
 
-4. Plan de precios:
+## 4. Plan de precios
 
 - En cuanto a los precios, un punto a favor para la aplicación es que ofrece varias ofertas gratuitas para probar la aplicación, a pesar de ser con funcionañidades reducidas. Vamos a ver qué precios nos ofrece:
 
@@ -76,15 +76,17 @@
 
 <a name="id5"></a>
 
-5. Ejemplo de integración co repositorios de código: - Esta aplicación tiene integtración
+## 5. Ejemplo de integración co repositorios de código:
+
+- Esta aplicación tiene integtración
 
 <a name="id6"></a>
 
-6. Ejemplo de documentación de proyectos:
+## 6. Ejemplo de documentación de proyectos:
 
 <a name="id7"></a>
 
-7. Otras herramientas con las que se integra:
+## 7. Otras herramientas con las que se integra
 
 Wrike se integra con una variedad de herramientas y aplicaciones, lo que permite a los usuarios conectar su flujo de trabajo y automatizar tareas.
 
@@ -108,7 +110,7 @@ Wrike también se integra con muchas otras herramientas y aplicaciones populares
 
 <a name="id8"></a>
 
-8. Comparativa con otras herramientas:
+## 8. Comparativa con otras herramientas
 
 | Herramienta | Control de Versiones | Control de Versiones de Código | Gestión de Proyectos | Integraciones | Aplicación de Escritorio | Aplicación Móvil | Características adicionales |
 |---|---|---|---|---|---|---|---|
@@ -123,7 +125,7 @@ Wrike también se integra con muchas otras herramientas y aplicaciones populares
 
 <a name="id9"></a>
 
-9. ¿Por qué escoger la herramienta frente a otras?
+## 9. ¿Por qué escoger la herramienta frente a otras?
 
 Wrike es una buena opción si buscas una herramienta de gestión de proyectos que tenga una interfaz de usuario fácil de usar y una amplia gama de funciones. Wrike se enfoca en la colaboración y la planificación de proyectos en equipo, y tiene una variedad de características adicionales como seguimiento de tiempo, análisis de carga de trabajo, planificación de recursos y automatización de procesos.
 
