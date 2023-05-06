@@ -1,3 +1,5 @@
+<div align="justify">
+
 ## INFORMACIÓN SOBRE WRIKE, COMPARACIÓN CON OTRAS HERRAMIENTAS Y EJEMLOS
 
 ## 1. [¿Qué son las herramientas CI/DC?](#id1)
@@ -132,3 +134,5 @@ Wrike es una buena opción si buscas una herramienta de gestión de proyectos qu
 Además, Wrike también se integra con una amplia gama de herramientas y aplicaciones, incluyendo Salesforce, HubSpot y Adobe Creative Cloud, lo que lo hace muy útil para equipos que trabajan con diferentes aplicaciones.
 
 Sin embargo, si lo que necesitas es una herramienta específica de control de versiones para código, Wrike puede no ser la opción más adecuada. En su lugar, puede ser mejor optar por una herramienta especializada en control de versiones, como GitLab o Bitbucket.
+
+</div>
