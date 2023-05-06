@@ -20,7 +20,7 @@
 
 <a name="id1"></a>
 
-1. ¿Qué son las herramientas CI/CD?:
+## 1. ¿Qué son las herramientas CI/CD?:
 
    - Las herramientas CI/CD, que sin abreviar hacen referencia a "Integración Continua" y "Entrega Continua", son un concepto aplicado a ciertas herramientas que hacen referencia a la capacidad de mantener ordenada u organizada una empresa o un equipo de trabajo. Con estas herramientas CI/CD conseguimos ampliar y facilitar el trabajo a los equipos de desarrollo sobre todo con los aspectos relacionados con la inegración de código.
    - El objetivo principal de estas herramintas es el adaptar las herramientas a los desarrolladores, permitiendoles trabajar al mismo tiempo en diferentes funcionalidades de una aplicación y que no suponga un problema "mezclar" todo el código. El concepto de integración continua supone continuas fusiones del código de los desarrolladores (el cual debe haber pasado antes unos test previos para que no se mezclen con errores). Algunas de las funciones que las herramientas ofrecen es el hecho de solucionar de forma ágil los fallos o conflictos cuando se sube código nuevo.
