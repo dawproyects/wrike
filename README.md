@@ -51,7 +51,7 @@ Es utilizado por una amplia variedad de organizaciones y equipos, desde pequeña
 
 ## 4. Plan de precios
 
-<img src="img/precios.jpg">
+<img src="img/precios_2.jpg">
 
 - En cuanto a los precios, un punto a favor para la aplicación es que ofrece varias ofertas gratuitas para probar la aplicación, a pesar de ser con funcionañidades reducidas. Vamos a ver qué precios nos ofrece:
 
