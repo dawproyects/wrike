@@ -6,7 +6,7 @@
 
 ## 2. [¿Qué es, y dentro de que grupo de las herramientas CI/CD esta?](#id2)
 
-## 3. [¿Qué ofrece?](#id3)
+## 3. [¿Qué ofrece Wrike?](#id3)
 
 ## 4. [Plan de precios](#id4)
 
@@ -32,8 +32,8 @@
 <a name="id2"></a>
 
 ## 2. ¿Qué es, y dentro de que grupo de las herramientas CI/CD esta?
-- Wrike es un software de gestión de proyectos que permite la representación de toda la información junto a la asignación y creación de tareas con un sistema complejo y avaznado de las mismas pudiendo incluir fechas, horas estimadas, fechas de vencimiento, prioridades...
-- Dentro del grupo de facilidades que nos ofrecen las herramientas CI/DC, esta aplicación con:
+- Wrike es un software de gestión de proyectos que permite la representación de toda la información junto a la asignación y creación de tareas con un sistema complejo y avanzado de las mismas pudiendo incluir fechas, horas estimadas, fechas de vencimiento, prioridades...
+- Dentro del grupo de facilidades que nos ofrecen las herramientas CI/CD, esta aplicación con:
   - Interfaz para todos
   - Comentarios y feedback
   - Personalización / Adaptación
