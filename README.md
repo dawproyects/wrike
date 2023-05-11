@@ -32,6 +32,12 @@
 <a name="id2"></a>
 
 ## 2. ¿Qué es, y dentro de que grupo de las herramientas CI/CD esta?
+- Wrike es un software de gestión de proyectos que permite la representación de toda la información junto a la asignación y creación de tareas con un sistema complejo y avaznado de las mismas pudiendo incluir fechas, horas estimadas, fechas de vencimiento, prioridades...
+- Dentro del grupo de facilidades que nos ofrecen las herramientas CI/DC, esta aplicación con:
+  - Interfaz para todos
+  - Comentarios y feedback
+  - Personalización / Adaptación
+  - Asistencia  
 
 <a name="id3"></a>
 
@@ -96,7 +102,8 @@ Es utilizado por una amplia variedad de organizaciones y equipos, desde pequeña
 
 <a name="id6"></a>
 
-## 6. Ejemplo de documentación de proyectos
+## 6. Ejemplo de documentación de proyectos  
+- Wrike, al ser una aplicación tan orientada a la representación y asignación de tareas, la documentación de proyectos queda un poco limitada. Pero ello no quiere decir que no se pueda, pues la herramienta nos permite añadir etiquetas y descripciones además de comentarios a todas las tareas que se vayan creando. Esto hablando de la versión gratuita, que es bastante limitada. Las versiones de pago que anteriormente explicamos permiten añadir archivos de algunos tipos a la aplicaión, los cuales pueden asociarse a tareas creadas y uniendo esto junto a lo anteriormente nombrado podriamos documentar correctamente un proyecto. A pesar de que esta posibilidad exista, es ciertamente incómodo el hecho de tener el código documentado en una herramienta en la que no está alojado el propio código. Por otro lado, es cierto que la gestión del proyecto se hace mucho más sencilla por el uso y representación tan intuitiva que tiene la aplicación. 
 
 <a name="id7"></a>
 
