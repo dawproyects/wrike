@@ -6,7 +6,7 @@
 
 ## 2. [¿Qué es, y dentro de que grupo de las herramientas CI/CD esta?](#id2)
 
-## 3. [¿Qué ofrece?](#id3)
+## 3. [¿Qué ofrece Wrike?](#id3)
 
 ## 4. [Plan de precios](#id4)
 
